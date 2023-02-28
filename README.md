@@ -1,4 +1,4 @@
-# FURIA_javaProject
+# FURIA_Project
 This repository presents the java project containing the implementation of the "FURIA: an algorithm for unordered fuzzy rule induction" algorithm. 
 
 [REF] J. Hühn, E. Hüllermeier. FURIA: an algorithm for unordered fuzzy rule induction. Data Mining and Knowledge Discovery 19:3 (2009) 293-319.
