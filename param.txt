@@ -1,0 +1,7 @@
+algorithm = FARCHD
+inputData = "./data/iris/iris-10-1tra.dat" "./data/iris/iris-10-1tra.dat" "./data/iris/iris-10-1tst.dat"
+outputData = "accTraining.txt" "accTest.txt" "membershipFunctions.txt"  "ruleBase.txt"  "time.txt"  "hora.txt"  "rules.txt"  "evolution.txt"  
+
+Seed = 53743421
+m_Optimizations = 2
+m_Folds = 3
